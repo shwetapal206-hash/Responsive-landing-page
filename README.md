@@ -1,5 +1,3 @@
-HTML Code
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,9 +80,5 @@ HTML Code
     </footer>
 
      <script src="script.js"></script>
-</body>
-</html>
-
-    <script src="script.js"></script>
 </body>
 </html>
